@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm a self-taught Web developer who simply enjoy creating websites<br><br>Currently I'm ready for a full-time role as a full-stack software engineer<br><br>I'm capable and happy to learn new Technologies & tools for a job I can fit in
+💻 Full-stack software engineer — Python, Django, React.js
+
+I build production web applications from the ground up:
+REST APIs, SPAs, authentication systems, and payment integrations.
+
+🚀 Currently looking for a remote full-stack or backend role.
+
+📍 UTC+3 — Available for remote roles worldwide.
 
 
 # 💻 Tech Stack:
