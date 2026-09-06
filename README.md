@@ -2,7 +2,6 @@
 💻 Full-stack software engineer — Python, Django, React.js
 
 I build production web applications from the ground up:
-
 REST APIs, SPAs, authentication systems, and payment integrations.
 
 🚀 Currently looking for a remote full-stack or backend role.
